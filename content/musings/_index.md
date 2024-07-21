@@ -1,6 +1,6 @@
 ---
 type : "tags"
-layout : "notes"
-title: "Notes"
+layout : "musings"
+title: "Musings"
 subtitle : "Your musings or reading notes"
 ---

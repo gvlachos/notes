@@ -53,8 +53,8 @@ previewCardImagePlacement = "bottom"
     weight = 1
 
 [[menu.main]]
-    name = "Notes"
-    url = "/notes/"
+    name = "Musings"
+    url = "/musings/"
     weight = 2
 
 [[menu.main]]
